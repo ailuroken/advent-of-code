@@ -1,0 +1,1 @@
+Fun project doing the Advent of Code 2024 with my friend sergirr98 on GitHub. Link: https://adventofcode.com/
