@@ -1,6 +1,6 @@
 '''
 This Python code processes a 2D grid and simulates the movement of a guard.
-Credit: https://reddit.com/user/4HbQ/
+Source: https://reddit.com/user/4HbQ/
 This is my first time seeing complex numbers being used in code and have gained valuable knowledge by studying this script.
 '''
 
